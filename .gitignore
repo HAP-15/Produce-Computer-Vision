@@ -224,3 +224,10 @@ __marimo__/
 
 .DS_Store
 dataset/
+train/
+val/
+test/
+dataset/
+*.zip
+*.pt
+reports/
